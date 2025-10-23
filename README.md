@@ -4,6 +4,10 @@ D. Simulator is a detective simulation game where the core logic, AI, and dynami
 
 This project was built to explore advanced database concepts, demonstrating how complex, stateful, and dynamic logic can be implemented directly in SQL rather than at the application level.
 
+[Project Report](<docs/D-Simulator Report/D_Simulator.pdf>)
+
+[Presentation Slides](docs/Presentation.pdf)
+
 <p align="center">
   <img src="docs/D-Simulator Report/game_window.png" width="500">
 </p>
